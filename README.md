@@ -3,4 +3,4 @@ Plots from YCSB output
 
 This is a plot:
 
-![Plot](Record Read Operations vs Average Latency.png)
+![alt text](Record Read Operations vs Average Latency.png "Plot")
